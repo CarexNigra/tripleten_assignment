@@ -5,7 +5,10 @@
 - [Approaches](#approaches)
     - [Approach 1: one step classification](#approach-1-one-step-classification)
     - [Approach 2: two steps classification](#approach-2-two-steps-classification)
-– [Next steps](#next-steps-improvments)
+- [Next steps](#next-steps-improvments)
+- [Repo structure](#repo-structure)
+- [Installation and usage](#installation-and-usage)
+
 
 ## Task
 The task was following
@@ -94,7 +97,7 @@ tripleten_assignment/
 ```
 
 
-## Installation
+## Installation and Usage
 **Prerequisites:** 
 * Python version 3.12 (it's worth using [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#installation) to install it)
 * [Poetry](https://python-poetry.org/docs/#installing-with-the-official-installer) version `2.1.2`
