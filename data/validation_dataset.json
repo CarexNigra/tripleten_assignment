@@ -1,0 +1,362 @@
+[
+    {
+        "question_id": 1,
+        "question_example": "Imagine you are a data scientist at a mid-sized e-commerce company aiming to boost customer retention. Describe how LTV insights can help formulate actionable customer retention strategies for this company.",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "LTV is a financial metric that tells us how much a customer is worth. It is important for businesses to know this number.",
+                "score": 0.0,
+                "explanation": "Does not connect LTV to any retention strategies."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "LTV helps businesses understand the value of their customers. A higher LTV is better because it means customers spend more, which helps retention.",
+                "score": 0.25,
+                "explanation": "Provides only a superficial connection—mentions that LTV may impact retention but does not explain how."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "LTV helps identify which customers are most valuable to a business. If we focus on customers with higher LTV, we can try to keep them engaged for longer, improving retention.",
+                "score": 0.5,
+                "explanation": "Explains that LTV can help identify high-value customers for improving retention but does not detail how these insights lead to actionable strategies."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "LTV helps identify high-value customers so we can focus retention efforts on them. For example, we can offer exclusive discounts or rewards to customers with high LTV to encourage loyalty.",
+                "score": 0.75,
+                "explanation": "Describes how LTV insights can help prioritize retention efforts by outlining one strategy (e.g., targeting high-value customers) but lacks additional actionable strategies."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "LTV insights help segment customers based on their long-term value, allowing us to design tailored retention strategies. For high-LTV customers, we can invest in personalized loyalty programs and VIP perks to maintain engagement. For lower-LTV customers, we might adjust marketing spend or offer targeted promotions to increase their value. This ensures that retention efforts are cost-effective and focused on maximizing long-term profitability.",
+                "score": 1.0,
+                "explanation": "Offers a comprehensive explanation, detailing how LTV insights enable customer segmentation and directly linking the metric to multiple actionable retention strategies (e.g., optimizing marketing spend, tailoring loyalty programs, improving customer engagement, etc.)."
+            }
+        ]
+    },
+    {
+        "question_id": 2,
+        "question_example": "Explain the significance of photosynthesis in the ecosystem.",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "Photosynthesis is a process used by plants to convert sunlight into energy.",
+                "score": 0.0,
+                "explanation": "Does not explain the significance of photosynthesis in the ecosystem."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "Photosynthesis is important because it produces oxygen.",
+                "score": 0.25,
+                "explanation": "Mentions oxygen production but does not explain the broader significance in the ecosystem."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "Photosynthesis is crucial as it provides oxygen and is the base of the food chain.",
+                "score": 0.5,
+                "explanation": "Explains two significant roles but lacks depth in the explanation."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "Photosynthesis is significant because it produces oxygen and organic compounds that are essential for the survival of most life forms. It also forms the base of the food chain.",
+                "score": 0.75,
+                "explanation": "Provides a good explanation but could include more details on ecosystem impact."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "Photosynthesis is vital for the ecosystem as it converts solar energy into chemical energy, producing oxygen and organic compounds. It forms the base of the food chain, supporting herbivores and, indirectly, carnivores. It also helps regulate atmospheric CO2 levels, contributing to climate stability.",
+                "score": 1.0,
+                "explanation": "Comprehensive explanation covering multiple aspects of photosynthesis' significance in the ecosystem."
+            }
+        ]
+    },
+    {
+        "question_id": 3,
+        "question_example": "Discuss the impact of social media on modern communication.",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "Social media allows people to communicate.",
+                "score": 0.0,
+                "explanation": "Too vague and does not discuss the impact."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "Social media has changed how we communicate by making it easier.",
+                "score": 0.25,
+                "explanation": "Mentions a change but lacks depth and specifics."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "Social media impacts communication by allowing instant messaging and sharing of information.",
+                "score": 0.5,
+                "explanation": "Identifies some impacts but lacks a broader discussion."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "Social media has transformed communication by enabling instant sharing of information and connecting people globally. It has also influenced language and social interactions.",
+                "score": 0.75,
+                "explanation": "Good explanation but could include more on negative impacts or deeper analysis."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "Social media has revolutionized modern communication by enabling real-time information sharing and global connectivity. It has democratized content creation, influenced language and social norms, and facilitated social movements. However, it also poses challenges such as misinformation, privacy concerns, and reduced face-to-face interactions.",
+                "score": 1.0,
+                "explanation": "Comprehensive discussion covering both positive and negative impacts of social media on communication."
+            }
+        ]
+    },
+    {
+        "question_id": 4,
+        "question_example": "What are the economic implications of climate change?",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "Climate change affects the economy.",
+                "score": 0.0,
+                "explanation": "Too vague and does not explain how."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "Climate change can lead to economic losses.",
+                "score": 0.25,
+                "explanation": "Mentions economic losses but lacks specifics."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "Climate change impacts agriculture and can lead to economic losses.",
+                "score": 0.5,
+                "explanation": "Identifies one area of impact but lacks a broader discussion."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "Climate change has economic implications such as increased costs for disaster recovery and impacts on agriculture and fisheries.",
+                "score": 0.75,
+                "explanation": "Good explanation but could include more sectors and long-term effects."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "Climate change has profound economic implications, including increased costs for disaster recovery, impacts on agriculture, fisheries, and tourism, and potential shifts in global trade patterns. It can lead to resource scarcity, affecting prices and economic stability, and necessitates investment in adaptation and mitigation strategies.",
+                "score": 1.0,
+                "explanation": "Comprehensive explanation covering multiple economic sectors and long-term implications."
+            }
+        ]
+    },
+    {
+        "question_id": 5,
+        "question_example": "Describe the role of DNA in heredity.",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "DNA is a molecule found in cells.",
+                "score": 0.0,
+                "explanation": "Does not explain the role of DNA in heredity."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "DNA carries genetic information.",
+                "score": 0.25,
+                "explanation": "Mentions genetic information but lacks connection to heredity."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "DNA carries genetic information that is passed from parents to offspring.",
+                "score": 0.5,
+                "explanation": "Explains the basic role but lacks detail on how this process occurs."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "DNA carries genetic information that determines traits and is passed from parents to offspring during reproduction.",
+                "score": 0.75,
+                "explanation": "Good explanation but could include more on the mechanisms involved."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "DNA plays a crucial role in heredity by carrying genetic information that determines an organism's traits. During reproduction, DNA is replicated and passed from parents to offspring, ensuring the transmission of genetic material. This process involves complex mechanisms such as meiosis and fertilization.",
+                "score": 1.0,
+                "explanation": "Comprehensive explanation covering the role of DNA in heredity and the mechanisms involved."
+            }
+        ]
+    },
+    {
+        "question_id": 6,
+        "question_example": "What are the main causes of the French Revolution?",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "The French Revolution was caused by people being unhappy.",
+                "score": 0.0,
+                "explanation": "Too vague and does not identify specific causes."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "The French Revolution was caused by economic problems.",
+                "score": 0.25,
+                "explanation": "Identifies one cause but lacks depth and additional causes."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "The French Revolution was caused by economic problems and social inequality.",
+                "score": 0.5,
+                "explanation": "Identifies two causes but lacks a broader discussion."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "The French Revolution was caused by economic problems, social inequality, and political corruption.",
+                "score": 0.75,
+                "explanation": "Good explanation but could include more causes and context."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "The French Revolution was driven by multiple causes, including economic hardship due to debt and poor harvests, social inequality between the estates, political corruption, and the influence of Enlightenment ideas promoting liberty and equality. These factors combined to create widespread discontent and demand for change.",
+                "score": 1.0,
+                "explanation": "Comprehensive explanation covering multiple causes and providing context."
+            }
+        ]
+    },
+    {
+        "question_id": 7,
+        "question_example": "How does the process of natural selection contribute to evolution?",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "Natural selection is a process in nature.",
+                "score": 0.0,
+                "explanation": "Does not explain how natural selection contributes to evolution."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "Natural selection helps species survive.",
+                "score": 0.25,
+                "explanation": "Mentions survival but lacks connection to evolution."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "Natural selection leads to the survival of the fittest, contributing to evolution.",
+                "score": 0.5,
+                "explanation": "Explains the basic concept but lacks detail on the process."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "Natural selection contributes to evolution by favoring traits that enhance survival and reproduction, leading to changes in species over time.",
+                "score": 0.75,
+                "explanation": "Good explanation but could include more on the mechanisms involved."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "Natural selection is a key mechanism of evolution, where individuals with advantageous traits are more likely to survive and reproduce. Over generations, these traits become more common in the population, leading to evolutionary changes. This process involves genetic variation, differential survival, and reproduction.",
+                "score": 1.0,
+                "explanation": "Comprehensive explanation covering the role of natural selection in evolution and the mechanisms involved."
+            }
+        ]
+    },
+    {
+        "question_id": 8,
+        "question_example": "What are the ethical considerations of artificial intelligence in healthcare?",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "AI is used in healthcare.",
+                "score": 0.0,
+                "explanation": "Does not address ethical considerations."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "AI in healthcare raises ethical issues.",
+                "score": 0.25,
+                "explanation": "Mentions ethical issues but lacks specifics."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "AI in healthcare raises ethical issues such as privacy concerns.",
+                "score": 0.5,
+                "explanation": "Identifies one ethical issue but lacks a broader discussion."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "AI in healthcare raises ethical considerations such as privacy concerns, data security, and the potential for bias in decision-making.",
+                "score": 0.75,
+                "explanation": "Good explanation but could include more ethical considerations."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "The use of AI in healthcare involves several ethical considerations, including patient privacy, data security, and the potential for algorithmic bias affecting decision-making. There are also concerns about accountability, informed consent, and the impact on the doctor-patient relationship. Ensuring transparency and fairness in AI systems is crucial.",
+                "score": 1.0,
+                "explanation": "Comprehensive explanation covering multiple ethical considerations in AI healthcare applications."
+            }
+        ]
+    },
+    {
+        "question_id": 9,
+        "question_example": "Analyze the role of government policy in economic growth.",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "Government policy affects the economy.",
+                "score": 0.0,
+                "explanation": "Too vague and does not explain how."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "Government policy can help economic growth.",
+                "score": 0.25,
+                "explanation": "Mentions a potential effect but lacks specifics."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "Government policy can influence economic growth through taxation and spending.",
+                "score": 0.5,
+                "explanation": "Identifies two areas of influence but lacks a broader discussion."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "Government policy plays a role in economic growth by influencing factors such as taxation, spending, and regulation.",
+                "score": 0.75,
+                "explanation": "Good explanation but could include more on specific policies and their impacts."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "Government policy is crucial for economic growth, as it shapes the business environment through taxation, spending, and regulation. Policies can stimulate growth by investing in infrastructure, education, and innovation, while also ensuring financial stability and fair competition. Effective policy-making requires balancing short-term needs with long-term goals.",
+                "score": 1.0,
+                "explanation": "Comprehensive explanation covering multiple aspects of government policy and its impact on economic growth."
+            }
+        ]
+    },
+    {
+        "question_id": 10,
+        "question_example": "What are the challenges of implementing renewable energy sources?",
+        "answer_examples": [
+            {
+                "answer_id": 1,
+                "answer_text": "Renewable energy is good for the environment.",
+                "score": 0.0,
+                "explanation": "Does not address the challenges of implementation."
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "Implementing renewable energy can be difficult.",
+                "score": 0.25,
+                "explanation": "Mentions difficulty but lacks specifics."
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "Implementing renewable energy faces challenges such as high costs.",
+                "score": 0.5,
+                "explanation": "Identifies one challenge but lacks a broader discussion."
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "Implementing renewable energy sources faces challenges such as high initial costs, technological limitations, and the need for infrastructure development.",
+                "score": 0.75,
+                "explanation": "Good explanation but could include more challenges and context."
+            },
+            {
+                "answer_id": 5,
+                "answer_text": "The implementation of renewable energy sources faces several challenges, including high initial costs, technological limitations, and the need for significant infrastructure development. Additionally, there are issues related to energy storage, grid integration, and policy and regulatory hurdles. Overcoming these challenges requires coordinated efforts and investment.",
+                "score": 1.0,
+                "explanation": "Comprehensive explanation covering multiple challenges and providing context for implementation."
+            }
+        ]
+    }
+]

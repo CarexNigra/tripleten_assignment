@@ -1,0 +1,49 @@
+question_id,question_text,criteria
+1,Imagine you are a data scientist at a mid-sized e-commerce company aiming to boost customer retention. Describe how LTV insights can help formulate actionable customer retention strategies for this company.,Explain the concept of LTV and its relevance to customer retention.
+1,Imagine you are a data scientist at a mid-sized e-commerce company aiming to boost customer retention. Describe how LTV insights can help formulate actionable customer retention strategies for this company.,Describe how LTV can be used to identify high-value customers and prioritize retention efforts.
+1,Imagine you are a data scientist at a mid-sized e-commerce company aiming to boost customer retention. Describe how LTV insights can help formulate actionable customer retention strategies for this company.,"Provide specific examples of actionable strategies that can be derived from LTV insights, such as personalized loyalty programs or targeted promotions."
+1,Imagine you are a data scientist at a mid-sized e-commerce company aiming to boost customer retention. Describe how LTV insights can help formulate actionable customer retention strategies for this company.,Discuss how LTV insights can be used to segment customers and tailor retention strategies for different customer groups.
+1,Imagine you are a data scientist at a mid-sized e-commerce company aiming to boost customer retention. Describe how LTV insights can help formulate actionable customer retention strategies for this company.,Explain how using LTV insights can lead to cost-effective retention efforts and maximize long-term profitability.
+2,Explain the significance of photosynthesis in the ecosystem.,Defines photosynthesis and its basic process.
+2,Explain the significance of photosynthesis in the ecosystem.,Explains the role of photosynthesis in producing oxygen.
+2,Explain the significance of photosynthesis in the ecosystem.,"Describes how photosynthesis contributes to the food chain by providing energy to plants and, subsequently, to herbivores and higher trophic levels."
+2,Explain the significance of photosynthesis in the ecosystem.,Discusses the impact of photosynthesis on carbon dioxide levels and its role in regulating the Earth's climate.
+2,Explain the significance of photosynthesis in the ecosystem.,Highlights the overall importance of photosynthesis in maintaining ecosystem balance and supporting biodiversity.
+3,Discuss the impact of social media on modern communication.,"Identifies key changes in communication styles and methods due to social media (e.g., increased speed, brevity, visual communication)."
+3,Discuss the impact of social media on modern communication.,"Explains how social media has influenced interpersonal communication (e.g., connectivity, relationship dynamics, online vs. offline interactions)."
+3,Discuss the impact of social media on modern communication.,"Analyzes the role of social media in shaping public discourse and information dissemination (e.g., virality, echo chambers, misinformation)."
+3,Discuss the impact of social media on modern communication.,"Discusses the impact of social media on cultural and societal communication norms (e.g., global reach, cultural exchange, privacy concerns)."
+3,Discuss the impact of social media on modern communication.,"Evaluates both positive and negative effects of social media on communication (e.g., accessibility vs. misinformation, community building vs. isolation)."
+4,What are the economic implications of climate change?,"Identifies and explains the impact of climate change on key economic sectors (e.g., agriculture, fisheries, insurance, etc.)."
+4,What are the economic implications of climate change?,"Discusses the potential costs associated with climate change, such as damage to infrastructure, increased disaster recovery expenses, and health-related costs."
+4,What are the economic implications of climate change?,"Explains how climate change can affect global trade and supply chains, including disruptions and shifts in resource availability."
+4,What are the economic implications of climate change?,"Describes the economic opportunities that may arise from climate change, such as the growth of green technologies and renewable energy sectors."
+4,What are the economic implications of climate change?,"Analyzes the long-term economic risks and uncertainties posed by climate change, including potential impacts on economic growth and stability."
+5,Describe the role of DNA in heredity.,"Explain the basic structure of DNA and its components (e.g., nucleotides, double helix)."
+5,Describe the role of DNA in heredity.,Describe how DNA carries genetic information through sequences of bases.
+5,Describe the role of DNA in heredity.,Explain the process of DNA replication and its importance in heredity.
+5,Describe the role of DNA in heredity.,Discuss how DNA is passed from parents to offspring during reproduction.
+5,Describe the role of DNA in heredity.,Describe the role of DNA in determining traits and variations in organisms.
+6,What are the main causes of the French Revolution?,"Identifies social inequality as a cause, including the division of society into estates and the privileges of the nobility and clergy."
+6,What are the main causes of the French Revolution?,"Mentions economic factors, such as financial crisis, government debt, and taxation issues affecting the common people."
+6,What are the main causes of the French Revolution?,"Discusses political factors, including the influence of Enlightenment ideas and the failure of the monarchy to address grievances."
+6,What are the main causes of the French Revolution?,Includes the role of food scarcity and rising bread prices as a catalyst for public unrest.
+7,How does the process of natural selection contribute to evolution?,"Explains the basic concept of natural selection, including the role of variation, competition, and survival of the fittest."
+7,How does the process of natural selection contribute to evolution?,Describes how natural selection leads to changes in allele frequencies within a population over time.
+7,How does the process of natural selection contribute to evolution?,"Connects natural selection to the broader process of evolution, explaining how it contributes to the adaptation of species to their environments."
+7,How does the process of natural selection contribute to evolution?,"Provides examples or evidence of natural selection in action, illustrating its impact on evolutionary change."
+8,What are the ethical considerations of artificial intelligence in healthcare?,Identifies potential biases in AI algorithms and their impact on healthcare outcomes.
+8,What are the ethical considerations of artificial intelligence in healthcare?,Discusses patient privacy and data security concerns related to AI use in healthcare.
+8,What are the ethical considerations of artificial intelligence in healthcare?,Explores the implications of AI decision-making on patient autonomy and informed consent.
+8,What are the ethical considerations of artificial intelligence in healthcare?,Considers the accountability and transparency of AI systems in healthcare settings.
+8,What are the ethical considerations of artificial intelligence in healthcare?,Evaluates the potential for AI to exacerbate existing healthcare disparities or inequalities.
+9,Analyze the role of government policy in economic growth.,Identifies specific government policies that influence economic growth.
+9,Analyze the role of government policy in economic growth.,"Explains how these policies impact economic growth, providing clear mechanisms or pathways."
+9,Analyze the role of government policy in economic growth.,Discusses both positive and negative effects of government policy on economic growth.
+9,Analyze the role of government policy in economic growth.,Provides examples or case studies to illustrate the role of government policy in economic growth.
+9,Analyze the role of government policy in economic growth.,"Considers the broader context, such as historical, social, or international factors, that may affect the relationship between government policy and economic growth."
+10,What are the challenges of implementing renewable energy sources?,"Identifies specific technical challenges associated with implementing renewable energy sources, such as energy storage, grid integration, or intermittency issues."
+10,What are the challenges of implementing renewable energy sources?,"Discusses economic challenges, including the cost of technology, investment requirements, or financial incentives needed for renewable energy adoption."
+10,What are the challenges of implementing renewable energy sources?,"Explains regulatory or policy challenges, such as government regulations, permitting processes, or lack of supportive policies for renewable energy implementation."
+10,What are the challenges of implementing renewable energy sources?,"Addresses social or cultural challenges, including public perception, community acceptance, or the impact on local jobs and industries."
+10,What are the challenges of implementing renewable energy sources?,"Considers environmental challenges, such as land use, impact on wildlife, or resource availability for renewable energy projects."

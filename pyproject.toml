@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "tripleten-assignment"
+version = "0.0.1"
+description = "Reverse engineering of the model that assesses quality of students' answers"
+authors = ["Lara Simonova"]
+readme = "README.md"
+packages = [
+  { include = "src" }
+]
+
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+pydantic = "^2.11.7"
+requests = "^2.32.4"
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.1.1"
+python-dotenv = "^1.1.1"
